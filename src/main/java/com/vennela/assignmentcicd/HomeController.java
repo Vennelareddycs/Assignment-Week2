@@ -8,6 +8,6 @@ public class HomeController {
 
     @GetMapping("/")
     public String home() {
-        return "Week 2 Assignment CI/CD";
+        return "Week 2 Assignment CI/CD Success";
     }
 }
